@@ -1,0 +1,9 @@
+[submodule "Earthquake-Detection"]
+	path = Earthquake-Detection
+	url = git@github.com:JulesssG/Earthquake-Detection.git
+[submodule "ML-Project-01"]
+	path = ML-Project-01
+	url = git@github.com:Gorzen/ML-Project-01.git
+[submodule "ML"]
+	path = ML
+	url = git@github.com:floepfl/ML.git
